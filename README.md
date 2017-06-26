@@ -2,7 +2,7 @@
 Keep your eye on world time in a new way. See any time in any time zone.
 
 ## 👻 🎃 Always learn!
-**Notice!** The main purpose of Timzon is **learning(( and enjoying the open source world. 
+**Notice!** The main purpose of Timzon is **learning** and enjoying the open source world. 
 I'm not perfect neither anyone (no?) so let's learn together from what others know or you know. 
 
 ## 🎩 Technologies To Use

@@ -1,0 +1,9 @@
+{
+  "name": "timzon",
+  "version": "1.0.0",
+  "description": "World clock and timezon with a delightful experience ",
+  "main": "index.js",
+  "repository": "git@github.com:brajabi/timzon.git",
+  "author": "Behnam <b.rajabifard@gmail.com>, Mohammad Rajabifard <mo.rajbi@gmail.com>",
+  "license": "MIT"
+}

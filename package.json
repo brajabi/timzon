@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "git@github.com:brajabi/timzon.git",
   "author": "Behnam <b.rajabifard@gmail.com>, Mohammad Rajabifard <mo.rajbi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "timezone",
+    "world clock",
+    "time"
+  ]
 }
